@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.87.31.48:8081/repository/Pentagon-Project-Release/</url>
+	      <url>http://54.221.71.127:8081/repository/zelle-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.87.31.48:8081/repository/Pentagon-Project-Snapshot/</url>
+	      <url>http://54.221.71.127:8081/repository/zelle-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
