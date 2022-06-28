@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Pentagon-Project.war</finalName>
+		<finalName>zelle</finalName>
 		
 		<plugins>
 			<plugin>
