@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>Wells Fargo Bank</artifactId>
+	<artifactId>WellsFargoBankApp</artifactId>
 	<packaging>war</packaging>
 	
 	<version>0.0.1-SNAPSHOT</version> 
 	
-	<name>Wells Fargo Bank</name>
+	<name>WellsFargoBankApp</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Wells Fargo Bank</finalName>
+		<finalName>WellsFargoBankApp</finalName>
 		
 		<plugins>
 			<plugin>
